@@ -18,5 +18,5 @@ public class PrjClasses {
         
         
         System.out.println(nc.strSecondClassVar); //output variable from 2nd class
-    }
+    }  
 }
